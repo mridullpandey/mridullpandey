@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Mridul 👋
 
-<!--
-**mridullpandey/mridullpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in backend technologies, along with experience in microservices architecture and agile methodologies.
 
-Here are some ideas to get you started:
+## 🔭 Current Work
+- I'm currently working as a Software Engineer at Scrut Automation. Prior to that I was working at Jarvis Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Key Skills
+- Proficient in C/C++, GO, SQL, JavaScript, Python, Rust, and more.
+- Experience in working with Git, Bitbucket, and CI/CD tools.
+- Strong understanding of Data Structures, Algorithms, and Microservices.
+
+
+## 📚 Education
+- Bachelor of Engineering (B.E.) in Computer Science and Engineering from Dr. A. P. J. Abdul Kalam Technical University.
+
+## 💬 Let's Connect
+- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mridul-pandey-14b384169/) for professional connections and discussions.
+- Check out my [Leetcode] profile for coding challenges and solutions.
+
+## 📫 Contact
+- You can reach me at [mridulpandey27@gmail.com](mailto:mridulpandey27@gmail.com).
+
+---
+
+
+[website]: https://www.linkedin.com/in/mridul-pandey-14b384169/
+[linkedin]: https://www.linkedin.com/in/mridul-pandey-14b384169/
+[leetcode]: https://leetcode.com/mridulpandey27/
+[github]: https://github.com/mridullpandey
