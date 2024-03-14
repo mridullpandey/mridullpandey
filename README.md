@@ -12,7 +12,7 @@ I'm a passionate software engineer with a background in building robust applicat
 
 
 ## 📚 Education
-- Bachelor of Engineering (B.E.) in Computer Science and Engineering from Dr. A. P. J. Abdul Kalam Technical University.
+- Bachelor of Engineering (B.E.) in Computer Science and Engineering 
 
 ## 💬 Let's Connect
 - Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mridul-pandey-14b384169/) for professional connections and discussions.
