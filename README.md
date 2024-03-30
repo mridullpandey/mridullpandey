@@ -7,10 +7,10 @@ I'm a passionate software engineer with a background in building robust applicat
 
 ## 🌱 Key Skills
 - Proficient in JavaScript, Python, C, and more.
-- Open-Source contribution(checkout my GitHub repos.)
-- In my free time i love reading white papers and writing engineering blogs(check my medium profile:[Medium]([https://www.linkedin.com/in/mridul-pandey-14b384169/](https://medium.com/@mridulpandey) )
-- Experience in working with Git, Bitbucket, and CI/CD tools.
-- Strong understanding of Data Structures, Algorithms, and Microservices.
+- Exploring cool Open-Source projects and making contributions.
+- I love reading white papers and writing engineering blogs in my free time. (check out my medium profile:[medium.com/@mridulpandey](https://medium.com/@mridulpandey)
+- Experience working with Git, and CI/CD tools.
+- Strong understanding of Data Structures, Algorithms, serverless architecture, and Microservices.
 
 ## 📚 Education
 - Bachelor of Engineering (B.E.) in Computer Science and Engineering 
