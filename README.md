@@ -6,7 +6,7 @@ I'm a passionate software engineer with a background in building robust applicat
 - I'm currently working as a Software Engineer at Scrut Automation. Before that, I was working at Jarvis Technology.
 
 ## 🌱 Key Skills
-- Proficient in JavaScript, Python, C, and more.
+- Proficient in Python, NodeJs, Golang and more.
 - Exploring cool Open-Source projects and making contributions.
 - I love reading white papers and writing engineering blogs in my free time. (check out my medium profile:[medium.com/@mridulpandey](https://medium.com/@mridulpandey)
 - Experience working with Git, and CI/CD tools.
